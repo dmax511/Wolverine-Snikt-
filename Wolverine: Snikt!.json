@@ -10,9 +10,7 @@
       "volume": "1",
       "last_updated": "1649460473",
       "groups": {
-        "dmax511": [
-          "proxy/api/imgur/chapter/9WfWr1n/"
-        ]
+        "dmax511": "proxy/api/imgur/chapter/9WfWr1n/"
       }
     },
     "2": {
@@ -30,7 +28,7 @@
       "volume": "3",
       "last_updated": "1649460598",
       "groups": {
-        "  New post Go Ad-Free Wolverine: Snikt! Issue #1": [
+        "dmax511": [
           "https://imgur.com/gallery/rpJMFtz"
         ]
       }
@@ -40,9 +38,7 @@
       "volume": "4",
       "last_updated": "1649460603",
       "groups": {
-        "  New post Go Ad-Free Wolverine: Snikt! Issue #1": [
-          "https://imgur.com/gallery/7AFmB5k"
-        ]
+        "dmax511": "https://imgur.com/gallery/7AFmB5k"
       }
     },
     "5": {
