@@ -18,7 +18,7 @@
       "volume": "2",
       "last_updated": "1649460536",
       "groups": {
-        "  dmax511": "/proxy/api/imgur/gallery/iS92hf3/"
+        "  dmax511": "/proxy/api/imgur/chapter/iS92hf3/"
       }
     },
     "3": {
@@ -26,7 +26,7 @@
       "volume": "3",
       "last_updated": "1649460598",
       "groups": {
-        "dmax511": "https://imgur.com/gallery/rpJMFtz"
+        "dmax511": "/proxy/api/imgur/chapter/rpJMFtz/"
       }
     },
     "4": {
@@ -34,7 +34,7 @@
       "volume": "4",
       "last_updated": "1649460603",
       "groups": {
-        "dmax511": "7AFmB5k"
+        "dmax511": "/proxy/api/imgur/chapter/7AFmB5k/"
       }
     },
     "5": {
@@ -42,7 +42,7 @@
       "volume": "5",
       "last_updated": "1649460612",
       "groups": {
-        "dmax511": "https://imgur.com/gallery/KtmUedN"
+        "dmax511": "/proxy/api/imgur/chapter/KtmUedN/"
       }
     }
   }
