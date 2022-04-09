@@ -26,9 +26,7 @@
       "volume": "3",
       "last_updated": "1649460598",
       "groups": {
-        "dmax511": [
-          "https://imgur.com/gallery/rpJMFtz"
-        ]
+        "dmax511": "https://imgur.com/gallery/rpJMFtz"
       }
     },
     "4": {
@@ -44,9 +42,7 @@
       "volume": "5",
       "last_updated": "1649460612",
       "groups": {
-        "dmax511": [
-          "https://imgur.com/gallery/KtmUedN"
-        ]
+        "dmax511": "https://imgur.com/gallery/KtmUedN"
       }
     }
   }
